@@ -23,7 +23,7 @@ This project serves as a comprehensive guide to managing component trees with Re
 
 To get started with this project, follow the steps below:
 
-1. Clone the repository:  `git clone https://github.com/your-username/your-project.git`
+1. Clone the repository:  `git clone https://github.com/Arnaudbrice/todolist_react_useState_hook.git`
 2. Install the dependencies:  `npm install`
 3. Start the development server:  `npm start`
 4. Open your browser and visit  `http://localhost:3000`  to see the project in action.
