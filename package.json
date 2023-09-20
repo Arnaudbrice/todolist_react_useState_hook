@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.jsx",
-  "homepage": "https://Arnaudbrice.github.io/todolist_react_useState_hook",
+  "homepage": "https://arnaudbrice.github.io/todolist_react_useState_hook",
   "dependencies": {
     "gh-pages": "^6.0.0",
     "react": "18.2.0",

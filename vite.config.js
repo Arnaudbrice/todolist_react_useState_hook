@@ -12,6 +12,7 @@ export default defineConfig(() => {
     build: {
       outDir: 'build',
     },
-    plugins: [react(),envCompatible()],
+    plugins: [react(), envCompatible()],
+    base:"/todolist_react_useState_hook/"
   };
 });
